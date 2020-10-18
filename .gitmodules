@@ -1,0 +1,9 @@
+[submodule "happy-api"]
+	path = happy-api
+	url = https://github.com/elianbecali/happy-api.git
+[submodule "happy-web"]
+	path = happy-web
+	url = https://github.com/elianbecali/happy-web.git
+[submodule "happy-mobile"]
+	path = happy-mobile
+	url = https://github.com/elianbecali/happy-mobile.git
